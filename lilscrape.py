@@ -8,15 +8,15 @@ from BeautifulSoup import BeautifulSoup
 
 ## Enter start point and domain delimiter
 
-##starturl = "http://www.digitalscholar.net"
-domain = 'www.example.com' ## URLs must contain this string to be recognized
+starturl = "http://www.digitalscholar.net"
+# domain = 'www.example.com' ## URLs must contain this string to be recognized
 start_urls = [
 ##    'http://www.example.com'
 ##    'http://www.example2.com'
-        ]
+]        ]
 
 ## Output file
-textfile = open('FILENAME','w')
+textfile = open('posts.txt','w')
 
 
 ## Define functions
