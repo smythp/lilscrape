@@ -1,1 +1,1 @@
-A simple script for crawling sites
+A simple script for crawling websites
